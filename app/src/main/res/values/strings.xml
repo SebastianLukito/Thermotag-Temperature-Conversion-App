@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ThermoTag</string>
+    <string name="konversi_suhu">THERMOTAG</string>
+    <string name="masukkan_suhu">Masukkan Suhu</string>
+    <string name="konversi_ke_celcius">Celcius</string>
+    <string name="konversi_ke_fahrenheit">Fahrenheit</string>
+    <string name="konversi_ke_reamur">Reamur</string>
+    <string name="konversi_ke_kelvin">Kelvin</string>
+    <string name="hasil_konversi">Hasil Konversi</string>
+    <string name="hasil_konversi_ke">"Hasil Konversi ke "</string>
+    <string name="enter">Enter</string>
+    <string name="suhu_akhir">Pilih Suhu Tujuan</string>
+    <string name="suhu_awal">Pilih Suhu Awal</string>
+    <string name="made_with_love_by_sebastian">This android application is made with love by Sebastian</string>
+    <string name="your_personal_temperature_converter">This is Your Personal Temperature Converter.
+        This is Your Personal Temperature Converter.</string>
+    <string name="masuk">Enter</string>
+    <string name="welcome_to_thermotag">THERMOTAG</string>
+    <string name="sebastianus_lukito">©sebastianuslukito</string>
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Reamur</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
